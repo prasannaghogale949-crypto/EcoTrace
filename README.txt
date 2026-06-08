@@ -1,7 +1,7 @@
 # EcoTrace
 # 🌍 EcoTrace: Carbon Footprint Awareness Platform
 
-
+## Chosen vertical
 **[Challenge 3] Carbon Footprint Awareness Platform**
 
 ## 🧠 Approach and Logic
